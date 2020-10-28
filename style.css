@@ -23,6 +23,7 @@ a{
 	color:#505050;
 }
 
+
 .post_title{
 	font-size: 16px;
 	font-style: italic;
@@ -49,3 +50,11 @@ a{
 	margin-bottom:15px;	
 }
 
+.contacts_list{
+	list-style: none;
+	padding-left: 15px;
+}
+
+.contacts_list li a{
+	text-decoration: none;
+}
